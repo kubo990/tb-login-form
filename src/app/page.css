@@ -1,0 +1,57 @@
+.tb-login-content
+{
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tb-login-header
+{
+    margin-bottom: 30px;
+    line-height: 29px;
+}
+
+.tb-form
+{
+  color: #b3b3b3;
+}
+
+.tb-form-label
+{
+  color: #b3b3b3;
+}
+
+.tb-text-field__input 
+{
+  height: 45px;
+  width: max-content;
+  background-color: #fff;
+  border-radius: 3px;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  color: #191919;
+  line-height: 25px;
+  opacity: .94;
+  padding-top: 4px;
+}
+
+.tb-button
+{
+  text-transform: none;
+  background-color: #0097fd;
+  height: 45px;
+  border-radius: 3px;
+  border: none;
+  font-size: 16px;
+  color: #fff;
+  display: inline-block;
+  line-height: 30px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-weight: 400;
+  padding-left: 20px;
+  padding-right: 20px;
+}
